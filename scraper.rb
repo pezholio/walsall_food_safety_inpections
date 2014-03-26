@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'nokogiri'
 require 'mechanize'
 require 'open-uri'
